@@ -1,0 +1,52 @@
+[ABOUT]
+Merhaba, ben SertAy.
+
+Hiçbir yazılım tecrübem olmadan, tamamen yapay zeka desteği ve büyük bir emekle geliştirdiğim YamaNX'in hatalarını çözerek sorunsuz bir sürüme ulaştırdım. Hata bildirimleri ve önerileriniz için bana her zaman ulaşabilirsiniz.
+
+Yamaların yapımcısı ben değilim. Arşivde; Swatalk'ın 470'ten fazla ücretsiz yaması ile Soner Çakır, Sinnerclown, Profesör Pikachu, Dede00, emre, davetsiz57 gibi pek çok çevirmen arkadaşın internetten derlediğim çalışmaları yer alıyor. Tespit edebildiğim tüm isimleri oyun seçim ekranına ekledim.
+
+Sürekli güncellenen arşivimize eksik yamaların eklenmesi için bana, sıfırdan çeviri istekleriniz için ise doğrudan yapımcılara yazabilirsiniz.
+
+Uygulamanın gelişimine destek olmak ve beni motive etmek isterseniz bağış yapabilirsiniz.
+
+[QR1]
+TITLE=SertAy Tüm Linkler
+IMG=https://raw.githubusercontent.com/sertay1/YamaNX-Covers/main/qr_SertAyTumLinkler.png
+
+
+
+
+
+
+
+
+[QR2]
+TITLE=Swatalk Discord
+IMG=https://raw.githubusercontent.com/sertay1/YamaNX-Covers/main/qr_swatalk_discord.png
+
+[QR3]
+TITLE=Swatalk Bağış
+IMG=https://raw.githubusercontent.com/sertay1/YamaNX-Covers/main/qr_donate.png
+
+
+
+
+
+
+[QR4]
+TITLE=Soner Çakır Discord
+IMG=https://raw.githubusercontent.com/sertay1/YamaNX-Covers/main/qr_sonercakir_discord.png
+
+
+
+
+
+
+
+[QR5]
+TITLE=SinnerClown Discord
+IMG=https://raw.githubusercontent.com/sertay1/YamaNX-Covers/main/qr_sinnerclown_discord.png
+
+[QR6]
+TITLE=SinnerClown Site
+IMG=https://raw.githubusercontent.com/sertay1/YamaNX-Covers/main/qr_sinnerclown_site.png
